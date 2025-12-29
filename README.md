@@ -23,4 +23,30 @@ The project focuses on recreating the layout and design of Amazon’s homepage t
 ---
 
 ## 📂 Project Structure
+AmazonClone/
+├── index.html
+├── style.css
+└── images/
 
+---
+
+## How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## Learning Outcome
+- Practiced HTML structure
+- Learned CSS Flexbox layout
+- Understood Git & GitHub workflow
+
+---
+
+## Author
+Gaurav Vennamwar
+
+---
+
+## Note
+This project is for learning and practice purposes only.
