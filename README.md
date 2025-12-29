@@ -26,7 +26,23 @@ The project focuses on recreating the layout and design of Amazon’s homepage t
 AmazonClone/
 ├── index.html
 ├── style.css
-└── images/
+└── Assets
+        ├── Screenshot 1.png
+        ├── Screenshot 2.png
+        └── Screenshot 3.png
+
+---
+
+## Preview
+
+### Homepage
+![Homepage](Assets/Screenshot1.png)
+
+### Shop Section
+![Shop Section](Assets/Screenshot2.png)
+
+### Footer / Other Section
+![Footer](Assets/Screenshot3.png)
 
 ---
 
